@@ -1,7 +1,7 @@
 name,age,salary ="Ramesh",50,5500.13
 # method 1-printing the value of variable directly
 print(name,age,salary)
-# method 2-caoncadinate string with a value of variabel
+# method 2-concadinate string with a value of variabel
 print("Name is ",name)
 print("Age is",age)
 print("salary is",salary)
